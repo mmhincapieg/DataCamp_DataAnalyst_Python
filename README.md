@@ -26,7 +26,7 @@ and letting the numbers answer.
 - **Most frequent duration:** ~95 minutes (approximate)
 - **Short action movies in the 1990s: 7
 
-## How to Run ▶️
-```bash
-pip install pandas matplotlib
-Use your favourite software
+## Status
+🚧 In progress — updated regularly as I work through the track.
+
+*Personal learning portfolio, not affiliated with DataCamp.*
